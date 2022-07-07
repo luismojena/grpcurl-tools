@@ -1,6 +1,6 @@
 {
   "name": "grpcurl-tools",
-  "version": "1.4.0",
+  "version": "1.8.6",
   "description": "NPM package for installing grpcurl command-line tools for osx and linux",
   "os": [
     "darwin",
